@@ -13,7 +13,7 @@ Fazer um clone da página de login do [instagram](https://www.instagram.com/).
 
 ##### Resultado
 
-![]()
+![](https://github.com/NiksonDiniz/Digital_Innovation_One/blob/master/imagensAtividades/clone-instagram.png)
 
 ##### 🚀 Como rodar este projeto
 
